@@ -42,6 +42,7 @@ const Swarraaa = () => {
     interests: ['web dev 👩‍💻', 'tech 💻', 'drawing 🎨', 'k-pop & k-drama 📺'],
     favourites: {
       boyband: 'BTS 🧑‍🎤',
+      anime: 'Haikyuu!! 🏐',
       hobby: 'Drawing 🖌️',
       animal: 'Cat 🐱',
       season: 'Spring 💮',
@@ -61,6 +62,7 @@ const Swarraaa = () => {
       <h4>Some of my all time favourites:</h4>
       <ul>
         <li>Boyband: {aboutMe.favourites.boyband}</li>
+        <li>Anime: {aboutMe.favourites.anime}</li>
         <li>Hobby: {aboutMe.favourites.hobby}</li>
         <li>Animal: {aboutMe.favourites.animal}</li>
         <li>Season: {aboutMe.favourites.season}</li>
