@@ -82,7 +82,13 @@ export default Swarraaa
 
 ## My GitHub stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=swarraaa&theme=midnight-purple" alt="swarraa github stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarraaa&layout=compact&theme=midnight-purple)](https://github.com/swarraaa/github-readme-stats)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=swarraaa&show_icons=true&theme=midnight-purple" alt="Swarada's GitHub stats"> 
+    &nbsp; &nbsp; 
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=swarraaa&theme=midnight-purple" alt="Swarada's GitHub streak">
+</div>
 
 <br> <br>
 
