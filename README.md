@@ -24,7 +24,7 @@
 
 <br>
 
-## <div align="center" color="purple">Since I love React, here's a glimpse of me in jsx <img src="https://media1.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif" alt="tux" height="40" width="40"></div>
+## <div align="center" color="purple">Since I love React, here's a glimpse of me in jsx <img src="https://media1.giphy.com/avatars/Care-Kita-App/akADEkX6AvR3.gif" alt="tux" height="45" width="40"></div>
 
 <!-- Gif options -->
 <!-- <img src="https://media2.giphy.com/media/l2FSi4zPU5dnLyd7Q4/giphy.gif">
@@ -84,11 +84,11 @@ export default Swarraaa
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarraaa&layout=compact&theme=midnight-purple)](https://github.com/swarraaa/github-readme-stats)
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=swarraaa&show_icons=true&theme=midnight-purple" alt="Swarada's GitHub stats"> 
+<p >
+    <img src="https://github-readme-stats.vercel.app/api?username=swarraaa&show_icons=true&theme=midnight-purple" alt="Swarada's GitHub stats" height="160"> 
     &nbsp; &nbsp; 
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=swarraaa&theme=midnight-purple" alt="Swarada's GitHub streak">
-</div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=swarraaa&theme=midnight-purple" alt="Swarada's GitHub streak" height="160">
+</p>
 
 <br> <br>
 
@@ -96,25 +96,25 @@ export default Swarraaa
 
 <p align="center">
   <!-- HTML -->
-  &nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> &nbsp; 
+  &nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246543/html_tuw4rp.png" alt="html5" height="45"/></a> &nbsp; 
   <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246544/CSS3_gcojal.png" alt="css3" height="45"/></a> &nbsp;
   <!-- JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246819/javascript_jutstz.png" alt="javascript" height="45"/></a>
   <!-- React js -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> &nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246544/reactjs_tv42ar.png" alt="react" height="45"/></a>
   <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45"/></a> &nbsp;
   <!-- Material UI -->
-  <a href="https://material-ui.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522794/materialui_q9d5jc.png" alt="xd" width="40" height="40"/></a> &nbsp;
+  <a href="https://material-ui.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522794/materialui_q9d5jc.png" alt="xd" height="45"/></a> &nbsp;
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522879/git_pjie4r.png" alt="xd" width="40" height="40"/></a> &nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522879/git_pjie4r.png" alt="xd" height="45"/></a> &nbsp;
   <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> &nbsp;
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246511/Tux_v2wp6k.png" alt="linux" height="45"/></a> &nbsp;
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  &nbsp;
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246448/c_s0mlle.png" alt="c" height="45"/> </a>  &nbsp;
   <!-- C++ -->
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246444/cpp_askiyi.png" alt="cplusplus" height="45"/> </a> &nbsp;
 </p>
 
 <br>
@@ -123,13 +123,13 @@ export default Swarraaa
 
 <p align="center">
   <!-- Linkedin -->
-  &nbsp; <a href="https://www.linkedin.com/in/swarada-bhosale/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swarada-bhosale" height="30" width="30" /></a> &nbsp;
+  &nbsp; <a href="https://www.linkedin.com/in/swarada-bhosale/" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/linkedin_mg2ujv.png" alt="swarada-bhosale" height="30" width="30" /></a> &nbsp;
   <!-- Twitter -->
-  <a href="https://twitter.com/SwaradaBhosale?t=Mqn1x7BnXT1aC0PIGxQeeg&s=09" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SwaradaBhosale" height="30" width="30" /></a> &nbsp;
+  <a href="https://twitter.com/SwaradaBhosale?t=Mqn1x7BnXT1aC0PIGxQeeg&s=09" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/twitter-removebg-preview_qmm0f4.png" alt="SwaradaBhosale" height="30" width="30" /></a> &nbsp;
   <!-- Codechef -->
   <a href="https://www.codechef.com/users/swarada_1383" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683523037/codechef_avowzq.png" alt="swarada_1383" height="30" width="30" /></a> &nbsp;
   <!-- Instagram -->
-  <a href="https://instagram.com/__.swaraa.__?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.swaraa.__" height="30" width="30" /></a> &nbsp;
+  <a href="https://instagram.com/__.swaraa.__?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/Instagram_vn7dni.svg" alt="__.swaraa.__" height="30" width="30" /></a> &nbsp;
 </p>
 
 <br> <br>
