@@ -1,7 +1,7 @@
 # <div align="center">❄️ Hey there! I'm Swarada ❄️</div>
 
 <div align="center" style="margin:100px;" >
-  <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683470266/17daedb77a87ae0fa09879faf73ed3ba_1_liphgv.jpg" alt="bts" width="70%"/> 
+  <img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1687468403/Copy_of_DISTRO_DISRUPTORS_1_mw85n0.gif" alt="welcome"/> 
 </div>
 <br>
 <div align="center">  
