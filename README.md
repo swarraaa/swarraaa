@@ -20,7 +20,7 @@
 
 - 👨‍💻 Get to know me better from my **[Resume](https://drive.google.com/file/d/140McacmompRk5ipp5FivuVRFv0T0lOZV/view?usp=sharing)**
 
-- ❣️ Always remember **"Love Yourself, Speak Yourself!"**
+- ⚡ <b><i>Powerful people make places powerful!</i></b>
 
 <br>
 
