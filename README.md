@@ -18,7 +18,7 @@
 
 - 📫 Reach me at **swaradapb113@gmail.com**
 
-- 👨‍💻 Get to know me better from my **[Resume](https://drive.google.com/file/d/140McacmompRk5ipp5FivuVRFv0T0lOZV/view?usp=sharing)**
+- 👨‍💻 Get to know me better from my **[Portfolio](https://swarada.vercel.app/)**
 
 - ⚡ <b><i>Powerful people make places powerful!</i></b>
 
@@ -90,7 +90,9 @@ export default Swarraaa
     <img src="https://github-readme-streak-stats.herokuapp.com?user=swarraaa&theme=midnight-purple" alt="Swarada's GitHub streak" height="160">
 </p>
 
-<br> <br>
+<br> <be>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=swarraaa&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/swarraaa/github-profile-trophy)
 
 ## My skill set
 
