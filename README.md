@@ -97,18 +97,14 @@ export default Swarraaa
 ## My skill set
 
 <p align="center">
-  <!-- HTML -->
-  &nbsp;<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246543/html_tuw4rp.png" alt="html5" height="45"/></a> &nbsp; 
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246544/CSS3_gcojal.png" alt="css3" height="45"/></a> &nbsp;
-  <!-- JS -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246819/javascript_jutstz.png" alt="javascript" height="45"/></a>
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="tailwind" height="45"/></a> &nbsp;
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://youteam.io/blog/wp-content/uploads/2022/04/expressjs_logo.png" alt="javascript" height="45"/></a>
   <!-- React js -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685246544/reactjs_tv42ar.png" alt="react" height="45"/></a>
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="45"/></a> &nbsp;
-  <!-- Material UI -->
-  <a href="https://material-ui.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522794/materialui_q9d5jc.png" alt="xd" height="45"/></a> &nbsp;
+  <!-- NodeJS -->
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="xd" height="45"/></a> &nbsp;
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683522879/git_pjie4r.png" alt="xd" height="45"/></a> &nbsp;
   <!-- Linux -->
@@ -131,7 +127,7 @@ export default Swarraaa
   <!-- Codechef -->
   <a href="https://www.codechef.com/users/swarada_1383" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1683523037/codechef_avowzq.png" alt="swarada_1383" height="30" width="30" /></a> &nbsp;
   <!-- Instagram -->
-  <a href="https://instagram.com/__.swaraa.__?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1685247353/Instagram_vn7dni.svg" alt="__.swaraa.__" height="30" width="30" /></a> &nbsp;
+  <a href="https://instagram.com/__.swaraa.__?igshid=ZGUzMzM3NWJiOQ==" target="_blank"><img align="center" src="https://res.cloudinary.com/dduur8qoo/image/upload/v1689773467/Instagram_vn7dni_kzulby.png" alt="__.swaraa.__" height="30" width="30" /></a> &nbsp;
 </p>
 
 <br> <br>
