@@ -80,7 +80,7 @@ export default Swarraaa
 
 <div align="center">
 
-## My GitHub stats
+## 📊 My GitHub Stats 📊
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarraaa&layout=compact&theme=midnight-purple)](https://github.com/swarraaa/github-readme-stats)
 
@@ -92,7 +92,11 @@ export default Swarraaa
 
 <br> <be>
 
+## 🏆 My GitHub Trophies 🏆
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=swarraaa&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/swarraaa/github-profile-trophy)
+
+<br> <be>
 
 ## My skill set
 
