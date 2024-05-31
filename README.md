@@ -12,7 +12,7 @@
 
 <br>
 
-- 🌱 An open- source enthusiast
+- 🌱 An open-source enthusiast
 
 - 💬 Ask me about **Web Dev**
 
